@@ -2,6 +2,7 @@
 yaml file is documented
 
 https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started
+https://www.w3schools.io/file/yaml-cheatsheet-syntax/
 
 YAML cheatsheet Syntax:
 yaml document contains multiple lines of text with the following rules.
