@@ -1,9 +1,9 @@
 # read_yaml_file
 yaml file is documented
 
-https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started
-https://www.w3schools.io/file/yaml-cheatsheet-syntax/
-https://quickref.me/yaml
+- https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started
+- https://www.w3schools.io/file/yaml-cheatsheet-syntax/
+- https://quickref.me/yaml
 
 YAML cheatsheet Syntax:
 yaml document contains multiple lines of text with the following rules.
